@@ -41,7 +41,4 @@ you can raise an issue.
 
 If you have something to add, I welcome pull requests on improvement; your helpful contribution will be merged as soon as possible.
 
-## Give it a Star
-
-If you find this repo useful, give it a star so that many people can get to know it.
 
